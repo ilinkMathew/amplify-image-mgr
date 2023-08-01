@@ -7,13 +7,13 @@ Refer to the [link](https://hashnode.com/hackathons/aws-amplify-2023)
 
 ## Inspiration : 
 
-Read my blog on Hashnode here 
+Read my blog on Hashnode [here](https://ilinkm.hashnode.dev/hello-hashnode) 
 
 ## Where Can I test?
 
-Demo URL: 
-Test User: 
-Test Pwd: 
+Demo URL: https://d3oqahi2zeflaj.cloudfront.net
+Test User: alt.gm-3ogfqna2@yopmail.com
+Test Pwd: Ha$hnod3aw$23
 
 ## How to give me feedback?
 Please create an issue an the repo. 
