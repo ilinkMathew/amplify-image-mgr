@@ -1,4 +1,4 @@
-# Hashnode - AWS Amplify Hackathon -  Jun 2023
+# Hashnode - AWS Amplify Hackathon -  Jul 2023
 
 
 ## Hackathon Rules : 
