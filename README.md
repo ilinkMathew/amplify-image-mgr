@@ -12,8 +12,7 @@ Read my blog on Hashnode [here](https://ilinkm.hashnode.dev/hello-hashnode)
 ## Where Can I test?
 
 Demo URL: https://d3oqahi2zeflaj.cloudfront.net
-Test User: alt.gm-3ogfqna2@yopmail.com
-Test Pwd: Ha$hnod3aw$23
+
 
 ## How to give me feedback?
 Please create an issue an the repo. 
